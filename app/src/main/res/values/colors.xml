@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gunmetal">#223843</color>
+    <color name="zomp">#43AA8B</color>
+    <color name="seasalt">#FCFAFA</color>
+    <color name="darkState">#416165</color>
+</resources>
